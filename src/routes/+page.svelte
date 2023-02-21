@@ -1,4 +1,5 @@
 <script>
+  import Projects from "./../components/Projects.svelte";
   import "../app.css";
   import About from "../components/About.svelte";
   import Contact from "../components/Contact.svelte";
@@ -9,6 +10,7 @@
 <main class="w-full h-full">
   <Navbar />
   <About />
+  <Projects />
   <Contact />
   <Footer />
 </main>
