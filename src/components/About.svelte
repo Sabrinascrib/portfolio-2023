@@ -3,7 +3,7 @@
 </script>
 
 <div class="max-w-[1000px] mx-auto">
-  <img src={aboutmetext} class="w-56 mb-4" alt="" />
+  <img src={aboutmetext} class="h-14 mb-4" alt="" />
   <p>
     I‘m a 16 year old self-taught Front-End Developer based in Germany. My
     interest in web development started back in 2017, I tried <br /> to develop
