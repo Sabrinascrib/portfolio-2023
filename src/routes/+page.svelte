@@ -7,7 +7,7 @@
   import Navbar from "../components/Navbar.svelte";
 </script>
 
-<main class="w-full h-full">
+<main class="w-full h-full pb-96">
   <Navbar />
   <About />
   <Projects />
