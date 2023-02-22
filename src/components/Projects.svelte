@@ -1,6 +1,7 @@
 <script>
   import kicksfixtext from "../images/kicksfixtext.png";
 
+  import animeflixtext from "../images/animeflixtext.png";
   import myprojectstext from "../images/myprojectstext.png";
 </script>
 
