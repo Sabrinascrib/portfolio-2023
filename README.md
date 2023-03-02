@@ -1,2 +1,2 @@
-my new portfolio. (not done yet)
+my new portfolio. (coming soon)
 
